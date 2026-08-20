@@ -1,6 +1,6 @@
 @font-face {
   font-family: 'Revelstoke';
-  src: url('https://raw.githubusercontent.com/maynardville/vrt-brand-assets/main/fonts/revelstoke-regular.woff2') format('woff2');
+  src: url('https://maynardville.github.io/vrt-brand-assets/fonts/revelstoke-regular.woff2') format('woff2');
   font-weight: 400;
   font-style: normal;
   font-display: swap;
@@ -8,7 +8,7 @@
 
 @font-face {
   font-family: 'Galvji';
-  src: url('https://raw.githubusercontent.com/maynardville/vrt-brand-assets/main/fonts/galvji-regular.woff2') format('woff2');
+  src: url('https://maynardville.github.io/vrt-brand-assets/fonts/galvji-regular.woff2') format('woff2');
   font-weight: 400;
   font-style: normal;
   font-display: swap;
@@ -16,7 +16,7 @@
 
 @font-face {
   font-family: 'Galvji';
-  src: url('https://raw.githubusercontent.com/maynardville/vrt-brand-assets/main/fonts/galvji-bold.woff2') format('woff2');
+  src: url('https://maynardville.github.io/vrt-brand-assets/fonts/galvji-bold.woff2') format('woff2');
   font-weight: 700;
   font-style: normal;
   font-display: swap;
